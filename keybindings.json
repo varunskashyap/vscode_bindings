@@ -2,17 +2,17 @@
 [
   // NAVIGATION
   {
-    "key": "ctrl+shift+a",
+    "key": "ctrl+shift+j",
     "command": "workbench.action.terminal.focusNext",
     "when": "terminalFocus"
   },
   {
-    "key": "ctrl+shift+b",
+    "key": "ctrl+shift+k",
     "command": "workbench.action.terminal.focusPrevious",
     "when": "terminalFocus"
   },
   {
-    "key": "ctrl+shift+j",
+    "key": "ctrl+shift+t",
     "command": "workbench.action.togglePanel"
   },
   {
@@ -21,7 +21,7 @@
     "when": "terminalFocus"
   },
   {
-    "key": "ctrl+shift+w",
+    "key": "ctrl+shift+q",
     "command": "workbench.action.terminal.kill",
     "when": "terminalFocus"
   },
